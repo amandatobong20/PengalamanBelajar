@@ -1,14 +1,16 @@
 # PengalamanBelajar
 Repository berisi pengalaman belajar di Dicoding-Bangkit
 
-8 Februari 2022
-Belajar kelas Memulai Pengetahuan GITHUB dan GIT. (Progres 21%)
+**8 Februari 2021**  
 
-* Belajar tentang apa itu GIT dan GITHUB dan alasan menggunakannya.
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
-* Belajar tools yang dapat digunakan untuk menggunakan GIT dan GITHUB.
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
 
-14 Februari 2022
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**14 Februari 2021**  
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
